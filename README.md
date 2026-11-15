@@ -175,7 +175,7 @@ Edit **`config.json`** before deploying:
   "ADMIN_ID":       "1163855982",
   "PORT":           8080,
   "ADMIN_CODE":     "22446688",
-  "ADMIN_USERNAME": "spy_enigma"
+  "ADMIN_USERNAME": "spyenigma"
 }
 ```
 
