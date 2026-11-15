@@ -171,11 +171,12 @@ Edit **`config.json`** before deploying:
 
 ```json
 {
-  "BOT_TOKEN":      "YOUR_TELEGRAM_BOT_TOKEN",
-  "ADMIN_ID":       "YOUR_TELEGRAM_USER_ID",
+  "BOT_TOKEN":      "8919126527:AAF7623NNj7sBhgEyx76N1A
+AGKJUBrcVqDM",
+  "ADMIN_ID":       "1163855982",
   "PORT":           8080,
-  "ADMIN_CODE":     "your_panel_login_code",
-  "ADMIN_USERNAME": "your_panel_username"
+  "ADMIN_CODE":     "22446688",
+  "ADMIN_USERNAME": "spy_enigma"
 }
 ```
 
