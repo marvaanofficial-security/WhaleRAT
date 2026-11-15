@@ -171,8 +171,7 @@ Edit **`config.json`** before deploying:
 
 ```json
 {
-  "BOT_TOKEN":      "8919126527:AAF7623NNj7sBhgEyx76N1A
-AGKJUBrcVqDM",
+  "BOT_TOKEN":     "8919126527:AAF7623NNj7sBhgEyx76N1AAGkJUBrcVqDM",
   "ADMIN_ID":       "1163855982",
   "PORT":           8080,
   "ADMIN_CODE":     "22446688",
